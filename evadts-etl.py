@@ -4,7 +4,7 @@
 import os
 from pathlib import Path
 # Get a list of all files and directories:
-path = Path(os.path.abspath(os.getcwd()) + '//EVADTS_processing' + '//rawdata')
+path = Path(os.path.abspath(os.getcwd()) + '//rawdata')
 directory_list = os.listdir(path)
 # File processing: Get lines from file and store them in variable
 # Open and read the file's contents:
@@ -127,7 +127,7 @@ dfEvaFile = pd.DataFrame(zipList, columns = ['Code', 'Values'])
 
 # Use pandas 'read_csv' method to file into a dataframe
 # Open and read the file's contents:
-filename = Path(os.path.abspath(os.getcwd()) + '//EVADTS_processing' + '//EVADTS_MAST.csv')
+filename = Path(os.path.abspath(os.getcwd()) + '//EVADTS_MAST.csv')
 dfEvaCode = pd.read_csv(filename, header=0)
 
 # Use pandas 'merge()' method to join dataframes: 'dfBlueRed' and 'dfEvaCode', into a dataframe:
@@ -161,5 +161,5 @@ dfBlueRed = dfBlueRed.loc[:, colReorder]
 
 # Write transformed dataframe to a CSV file:
 newFilename = valMachCode + '-' + valDate
-filename = Path(os.path.abspath(os.getcwd()) + '//EVADTS_processing' + '//data' + '//' + newFilename + '.csv')
+filename = Path(os.path.abspath(os.getcwd()) + '//data' + '//' + newFilename + '.csv')
 dfBlueRed.to_csv(filename)
