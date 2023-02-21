@@ -1,0 +1,1036 @@
+,Retrieve_date,VM_serial,Code,Description,Values
+0,2019-12-03 13:11:55,1190466,ID101,Machine Serial Number,NEC01190466
+1,2019-12-03 13:11:55,1190466,ID102,Machine Model Number,CONCERTO
+2,2019-12-03 13:11:55,1190466,ID106,Machine Asset Number,01190466
+3,2019-12-03 13:11:55,1190466,ID401,Decimal Point Position,0
+4,2019-12-03 13:11:55,1190466,ID501,System Date,191203
+5,2019-12-03 13:11:55,1190466,ID502,System Time,130650
+6,2019-12-03 13:11:55,1190466,CB103,Control Board Software Revision,1.6
+7,2019-12-03 13:11:55,1190466,VA101,All Paid Vends Cumulative Sales Value,517900
+8,2019-12-03 13:11:55,1190466,VA102,All Paid Vends Cumulative Item Counts,22659
+9,2019-12-03 13:11:55,1190466,VA103,All Paid Vends Interval Period Sales Value,0
+10,2019-12-03 13:11:55,1190466,VA104,All Paid Vends Interval Period Item Counts,192
+11,2019-12-03 13:11:55,1190466,VA201,Test Vends Cumulative Sales Value,137
+12,2019-12-03 13:11:55,1190466,VA202,Test Vends Cumulative Item Counts,139
+13,2019-12-03 13:11:55,1190466,VA203,Test Vends Interval Period Sales Value,0
+14,2019-12-03 13:11:55,1190466,VA204,Test Vends Interval Period Item Counts,0
+15,2019-12-03 13:11:55,1190466,VA301,Free Vends Cumulative Sales Value,3397
+16,2019-12-03 13:11:55,1190466,VA302,Free Vends Cumulative Item Counts,3341
+17,2019-12-03 13:11:55,1190466,VA303,Free Vends Interval Period Sales Value,97
+18,2019-12-03 13:11:55,1190466,VA304,Free Vends Interval Period Item Counts,97
+19,2019-12-03 13:11:55,1190466,CA201,Value of Cash Sales Since Initialisation,0
+20,2019-12-03 13:11:55,1190466,CA202,Number of Cash Vends Since Initialisation,0
+21,2019-12-03 13:11:55,1190466,CA203,Value of Cash Sales Since Last Reset,0
+22,2019-12-03 13:11:55,1190466,CA204,Number of Cash Vends Since Last Reset,0
+23,2019-12-03 13:11:55,1190466,CA301,Value of Cash In Since Last Reset,0
+24,2019-12-03 13:11:55,1190466,CA302,Value of Cash To Cash Box Since Last Reset,0
+25,2019-12-03 13:11:55,1190466,CA303,Value of Cash to Tubes Since Last Reset,0
+26,2019-12-03 13:11:55,1190466,CA304,Value of Bills In Since Last Reset,0
+27,2019-12-03 13:11:55,1190466,CA305,Value of Cash In Since Initialisation,300
+28,2019-12-03 13:11:55,1190466,CA306,Value of Cash To Cash Box Since Initialisation,0
+29,2019-12-03 13:11:55,1190466,CA307,Value of Cash To Tubes Since Initilisation,0
+30,2019-12-03 13:11:55,1190466,CA308,Value of Bills In Since Initialisation,240750
+31,2019-12-03 13:11:55,1190466,CA309,Value of Bills In Since Last Reset,0
+32,2019-12-03 13:11:55,1190466,CA310,Value of Bills In Since Initialisation,127190
+33,2019-12-03 13:11:55,1190466,CA401,Value of Cash Dispensed Since Last Reset,0
+34,2019-12-03 13:11:55,1190466,CA402,Value of Cash Manually Dispensed Since Last Reset,0
+35,2019-12-03 13:11:55,1190466,CA403,Value of Cash Dispensed Since Initialisation,0
+36,2019-12-03 13:11:55,1190466,CA404,Value of Cash Manually Dispensed Since Initiatlisation,0
+37,2019-12-03 13:11:55,1190466,CA701,Value of Cash Discounts Since Last Reset,0
+38,2019-12-03 13:11:55,1190466,CA702,Value of Cash Discounts Since Initialisation,0
+39,2019-12-03 13:11:55,1190466,CA801,Value of Cash Overpay Since Last Reset,0
+40,2019-12-03 13:11:55,1190466,CA802,Value of Cash Overpay Since Initialisation,0
+41,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,0
+42,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,0
+43,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,10
+44,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,0
+45,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+46,2019-12-03 13:11:55,1190466,CA105,,12542
+47,2019-12-03 13:11:55,1190466,CA106,,10134
+48,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,20
+49,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,0
+50,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+51,2019-12-03 13:11:55,1190466,CA105,,13752
+52,2019-12-03 13:11:55,1190466,CA106,,5421
+53,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,50
+54,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,0
+55,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+56,2019-12-03 13:11:55,1190466,CA105,,1572
+57,2019-12-03 13:11:55,1190466,CA106,,1572
+58,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,50
+59,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,0
+60,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+61,2019-12-03 13:11:55,1190466,CA105,,5910
+62,2019-12-03 13:11:55,1190466,CA106,,2536
+63,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,100
+64,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,0
+65,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+66,2019-12-03 13:11:55,1190466,CA105,,813
+67,2019-12-03 13:11:55,1190466,CA106,,813
+68,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,100
+69,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,0
+70,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+71,2019-12-03 13:11:55,1190466,CA105,,3028
+72,2019-12-03 13:11:55,1190466,CA106,,1443
+73,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,0
+74,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,1
+75,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,10
+76,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+77,2019-12-03 13:11:55,1190466,CA104,,0
+78,2019-12-03 13:11:55,1190466,CA105,,180
+79,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,2
+80,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,20
+81,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+82,2019-12-03 13:11:55,1190466,CA104,,0
+83,2019-12-03 13:11:55,1190466,CA105,,37
+84,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,3
+85,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,50
+86,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+87,2019-12-03 13:11:55,1190466,CA104,,0
+88,2019-12-03 13:11:55,1190466,CA105,,0
+89,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,4
+90,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,50
+91,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+92,2019-12-03 13:11:55,1190466,CA104,,0
+93,2019-12-03 13:11:55,1190466,CA105,,1064
+94,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,5
+95,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,100
+96,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+97,2019-12-03 13:11:55,1190466,CA104,,0
+98,2019-12-03 13:11:55,1190466,CA105,,0
+99,2019-12-03 13:11:55,1190466,CA101,Coin Mechanism Serial Number,6
+100,2019-12-03 13:11:55,1190466,CA102,Coin Mechanism Model Number,100
+101,2019-12-03 13:11:55,1190466,CA103,Coin Mechanism Software Revision,0
+102,2019-12-03 13:11:55,1190466,CA104,,0
+103,2019-12-03 13:11:55,1190466,CA105,,574
+104,2019-12-03 13:11:55,1190466,DA201,Value of Cashless 1 Sales Since Initiatlisation,0
+105,2019-12-03 13:11:55,1190466,DA202,Number Of Cashless 1 Vends Since Initialisation,0
+106,2019-12-03 13:11:55,1190466,DA203,Value of Cashless 1 Sales Since Last Reset,0
+107,2019-12-03 13:11:55,1190466,DA204,Number of Cashless 1 Vends Since Last Reset,0
+108,2019-12-03 13:11:55,1190466,DA401,Value Credited To Cashless 1 Since Initialisation,1158660
+109,2019-12-03 13:11:55,1190466,DA402,Value Credited To Cashless 1 Since Last Reset,0
+110,2019-12-03 13:11:55,1190466,DA501,Value of Cashless 1 Discounts Since Last Reset,0
+111,2019-12-03 13:11:55,1190466,DA502,Number Of Discount Cashless 1 Vends Since Last Reset,0
+112,2019-12-03 13:11:55,1190466,DA503,Value Of Cashless 1 Discounts Since Initialisation,0
+113,2019-12-03 13:11:55,1190466,DA504,Number Of Discount Cashless 1 Vends Since Initialisation,917610
+114,2019-12-03 13:11:55,1190466,DA505,Value of Cashless 1 Surcharges Since Last Reset,0
+115,2019-12-03 13:11:55,1190466,DA507,Value Of Cashless 1 Surcharges Since Initialisation,0
+116,2019-12-03 13:11:55,1190466,DA701,Cashless 1 User Group Number,1
+117,2019-12-03 13:11:55,1190466,DA702,Cashless 1 User Group Net Sales since last reset.,0
+118,2019-12-03 13:11:55,1190466,DA705,Number of products sold to Cashless 1 user group since initialisation,0
+119,2019-12-03 13:11:55,1190466,DA706,Number of products sold to Cashless 1 user group since last reset,0
+120,2019-12-03 13:11:55,1190466,DA707,Cashless 1 User Group Net Sales since initialization ,0
+121,2019-12-03 13:11:55,1190466,DA701,Cashless 1 User Group Number,2
+122,2019-12-03 13:11:55,1190466,DA702,Cashless 1 User Group Net Sales since last reset.,0
+123,2019-12-03 13:11:55,1190466,DA705,Number of products sold to Cashless 1 user group since initialisation,0
+124,2019-12-03 13:11:55,1190466,DA706,Number of products sold to Cashless 1 user group since last reset,0
+125,2019-12-03 13:11:55,1190466,DA707,Cashless 1 User Group Net Sales since initialization ,0
+126,2019-12-03 13:11:55,1190466,DA701,Cashless 1 User Group Number,3
+127,2019-12-03 13:11:55,1190466,DA702,Cashless 1 User Group Net Sales since last reset.,0
+128,2019-12-03 13:11:55,1190466,DA705,Number of products sold to Cashless 1 user group since initialisation,0
+129,2019-12-03 13:11:55,1190466,DA706,Number of products sold to Cashless 1 user group since last reset,0
+130,2019-12-03 13:11:55,1190466,DA707,Cashless 1 User Group Net Sales since initialization ,0
+131,2019-12-03 13:11:55,1190466,DA701,Cashless 1 User Group Number,4
+132,2019-12-03 13:11:55,1190466,DA702,Cashless 1 User Group Net Sales since last reset.,0
+133,2019-12-03 13:11:55,1190466,DA705,Number of products sold to Cashless 1 user group since initialisation,0
+134,2019-12-03 13:11:55,1190466,DA706,Number of products sold to Cashless 1 user group since last reset,0
+135,2019-12-03 13:11:55,1190466,DA707,Cashless 1 User Group Net Sales since initialization ,0
+136,2019-12-03 13:11:55,1190466,DA701,Cashless 1 User Group Number,5
+137,2019-12-03 13:11:55,1190466,DA702,Cashless 1 User Group Net Sales since last reset.,0
+138,2019-12-03 13:11:55,1190466,DA705,Number of products sold to Cashless 1 user group since initialisation,0
+139,2019-12-03 13:11:55,1190466,DA706,Number of products sold to Cashless 1 user group since last reset,0
+140,2019-12-03 13:11:55,1190466,DA707,Cashless 1 User Group Net Sales since initialization ,0
+141,2019-12-03 13:11:55,1190466,DB201,Value of Cashless 2 Sales Since Initiatlisation,917610
+142,2019-12-03 13:11:55,1190466,DB202,Number Of Cashless 2 Vends Since Initialisation,0
+143,2019-12-03 13:11:55,1190466,DB203,Value of Cashless 2 Sales Since Last Reset,0
+144,2019-12-03 13:11:55,1190466,DB204,Number of Cashless 2 Vends Since Last Reset,0
+145,2019-12-03 13:11:55,1190466,DB401,Value Credited To Cashless 2 Since Initialisation,220
+146,2019-12-03 13:11:55,1190466,DB402,Value Credited To Cashless 2 Since Last Reset,0
+147,2019-12-03 13:11:55,1190466,DB501,Value of Cashless 2 Discounts Since Last Reset,0
+148,2019-12-03 13:11:55,1190466,DB502,Number Of Discount Cashless 2 Vends Since Last Reset,0
+149,2019-12-03 13:11:55,1190466,DB503,Value Of Cashless 2 Discounts Since Initialisation,3390
+150,2019-12-03 13:11:55,1190466,DB504,Number Of Discount Cashless 2 Vends Since Initialisation,640760
+151,2019-12-03 13:11:55,1190466,DB505,Value of Cashless 2 Surcharges Since Last Reset,0
+152,2019-12-03 13:11:55,1190466,DB507,Value Of Cashless 2 Surcharges Since Initialisation,0
+153,2019-12-03 13:11:55,1190466,TA201,Value of Vend Token Vends Since Initialisation,0
+154,2019-12-03 13:11:55,1190466,TA202,No. of Vend Token Vends Since Initialisation,0
+155,2019-12-03 13:11:55,1190466,TA203,Value of Vend Token Sales Since Last Reset,0
+156,2019-12-03 13:11:55,1190466,TA204,No. of Vend Token Sales Since Last Reset,0
+157,2019-12-03 13:11:55,1190466,TA205,Value of Value Token Since Initialisation,0
+158,2019-12-03 13:11:55,1190466,TA206,No. of  Value Token Since Initialisation,0
+159,2019-12-03 13:11:55,1190466,TA207,Value of Value Token Sales Since Last Reset,0
+160,2019-12-03 13:11:55,1190466,TA208,No. of Value Token Vends Since Last Reset,0
+161,2019-12-03 13:11:55,1190466,TA301,Value of Value Tokens In Since Last Reset,0
+162,2019-12-03 13:11:55,1190466,TA302,Value of Value Tokens In Since Initialisation,0
+163,2019-12-03 13:11:55,1190466,TA501,Value of Token Overpay Since Last Reset,0
+164,2019-12-03 13:11:55,1190466,TA502,Value of Token Overpay Since Initialisation,0
+165,2019-12-03 13:11:55,1190466,TA701,Token Value,0
+166,2019-12-03 13:11:55,1190466,TA702,Number of Tokens In Since Last Reset,0
+167,2019-12-03 13:11:55,1190466,TA705,No. of Tokens In Since Initialisation,0
+168,2019-12-03 13:11:55,1190466,TA701,Token Value,0
+169,2019-12-03 13:11:55,1190466,TA702,Number of Tokens In Since Last Reset,0
+170,2019-12-03 13:11:55,1190466,TA705,No. of Tokens In Since Initialisation,0
+171,2019-12-03 13:11:55,1190466,TA701,Token Value,0
+172,2019-12-03 13:11:55,1190466,TA702,Number of Tokens In Since Last Reset,0
+173,2019-12-03 13:11:55,1190466,TA705,No. of Tokens In Since Initialisation,0
+174,2019-12-03 13:11:55,1190466,TA101,,1
+175,2019-12-03 13:11:55,1190466,TA102,,0
+176,2019-12-03 13:11:55,1190466,TA101,,2
+177,2019-12-03 13:11:55,1190466,TA102,,0
+178,2019-12-03 13:11:55,1190466,TA101,,3
+179,2019-12-03 13:11:55,1190466,TA102,,0
+180,2019-12-03 13:11:55,1190466,EA101,Event Identification,EFL_1
+181,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190705
+182,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,161415
+183,2019-12-03 13:11:55,1190466,EA201,Event Identification,EFL_1
+184,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+185,2019-12-03 13:11:55,1190466,EA101,Event Identification,EFL_1
+186,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190705
+187,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,162226
+188,2019-12-03 13:11:55,1190466,EA201,Event Identification,EFL_1
+189,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+190,2019-12-03 13:11:55,1190466,EA101,Event Identification,EFL_1
+191,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190705
+192,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,162514
+193,2019-12-03 13:11:55,1190466,EA201,Event Identification,EFL_1
+194,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+195,2019-12-03 13:11:55,1190466,EA101,Event Identification,EDI_5
+196,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190801
+197,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,130042
+198,2019-12-03 13:11:55,1190466,EA201,Event Identification,EDI_5
+199,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+200,2019-12-03 13:11:55,1190466,EA101,Event Identification,EDI_5
+201,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190801
+202,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,133027
+203,2019-12-03 13:11:55,1190466,EA201,Event Identification,EDI_5
+204,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+205,2019-12-03 13:11:55,1190466,EA101,Event Identification,EDI_5
+206,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190801
+207,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,133747
+208,2019-12-03 13:11:55,1190466,EA201,Event Identification,EDI_5
+209,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+210,2019-12-03 13:11:55,1190466,EA101,Event Identification,EFL_1
+211,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190826
+212,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,120200
+213,2019-12-03 13:11:55,1190466,EA201,Event Identification,EFL_1
+214,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+215,2019-12-03 13:11:55,1190466,EA101,Event Identification,EBD
+216,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190903
+217,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,132901
+218,2019-12-03 13:11:55,1190466,EA201,Event Identification,EBD
+219,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+220,2019-12-03 13:11:55,1190466,EA101,Event Identification,EDI_4
+221,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190930
+222,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,083850
+223,2019-12-03 13:11:55,1190466,EA201,Event Identification,EDI_4
+224,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+225,2019-12-03 13:11:55,1190466,EA101,Event Identification,EDI_4
+226,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190930
+227,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,084914
+228,2019-12-03 13:11:55,1190466,EA201,Event Identification,EDI_4
+229,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+230,2019-12-03 13:11:55,1190466,EA101,Event Identification,EDI_4
+231,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,190930
+232,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,085022
+233,2019-12-03 13:11:55,1190466,EA201,Event Identification,EDI_4
+234,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+235,2019-12-03 13:11:55,1190466,EA101,Event Identification,EBD
+236,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,191030
+237,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,144503
+238,2019-12-03 13:11:55,1190466,EA201,Event Identification,EBD
+239,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+240,2019-12-03 13:11:55,1190466,EA101,Event Identification,EBD
+241,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,191111
+242,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,135725
+243,2019-12-03 13:11:55,1190466,EA201,Event Identification,EBD
+244,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+245,2019-12-03 13:11:55,1190466,EA101,Event Identification,EDT_1
+246,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,191113
+247,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,125306
+248,2019-12-03 13:11:55,1190466,EA201,Event Identification,EDT_1
+249,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+250,2019-12-03 13:11:55,1190466,EA101,Event Identification,OBH
+251,2019-12-03 13:11:55,1190466,EA102,Data of Event Occurance,191125
+252,2019-12-03 13:11:55,1190466,EA103,Time of Event Occurance,112227
+253,2019-12-03 13:11:55,1190466,EA201,Event Identification,OBH
+254,2019-12-03 13:11:55,1190466,EA205,Event Activity,0
+255,2019-12-03 13:11:55,1190466,EA701,Number of Power Outages Since Last Reset,5
+256,2019-12-03 13:11:55,1190466,EA702,Number of Power Outages Since Initialisation,15461
+257,2019-12-03 13:11:55,1190466,EA301,Number Of Reads with RESET Since Initialisation,404
+258,2019-12-03 13:11:55,1190466,EA302,Date Of This Read Out,191203
+259,2019-12-03 13:11:55,1190466,EA303,Time Of This Read Out,131155
+260,2019-12-03 13:11:55,1190466,EA304,This Terminal / interrogator Identification,0000
+261,2019-12-03 13:11:55,1190466,EA305,Date Of Last Read Out,191128
+262,2019-12-03 13:11:55,1190466,EA306,Time Of Last Read Out,134859
+263,2019-12-03 13:11:55,1190466,EA307,Last Terminal / interrogator Identification,0000
+264,2019-12-03 13:11:55,1190466,PP101,Preselection Number,0
+265,2019-12-03 13:11:55,1190466,PP102,Preselection Price,0
+266,2019-12-03 13:11:55,1190466,PP103,Preselection Identification,SUGAR VARIATION
+267,2019-12-03 13:11:55,1190466,PP104,Preselection Incremental Price,0
+268,2019-12-03 13:11:55,1190466,PP105,Number of Times Preselection Used Since Initialisation,8572
+269,2019-12-03 13:11:55,1190466,PP107,Number of Times Preselection Used Since Reset,136
+270,2019-12-03 13:11:55,1190466,SA201,Ingredient Number,1
+271,2019-12-03 13:11:55,1190466,SA202,Quality of Ingredient Vended Since Last Reset,4828
+272,2019-12-03 13:11:55,1190466,SA203,Quantity of Ingredients Vended Since Initialisation,754229
+273,2019-12-03 13:11:55,1190466,SA201,Ingredient Number,2
+274,2019-12-03 13:11:55,1190466,SA202,Quality of Ingredient Vended Since Last Reset,0
+275,2019-12-03 13:11:55,1190466,SA203,Quantity of Ingredients Vended Since Initialisation,0
+276,2019-12-03 13:11:55,1190466,SA201,Ingredient Number,3
+277,2019-12-03 13:11:55,1190466,SA202,Quality of Ingredient Vended Since Last Reset,0
+278,2019-12-03 13:11:55,1190466,SA203,Quantity of Ingredients Vended Since Initialisation,0
+279,2019-12-03 13:11:55,1190466,SA201,Ingredient Number,4
+280,2019-12-03 13:11:55,1190466,SA202,Quality of Ingredient Vended Since Last Reset,7290
+281,2019-12-03 13:11:55,1190466,SA203,Quantity of Ingredients Vended Since Initialisation,913798
+282,2019-12-03 13:11:55,1190466,SA201,Ingredient Number,5
+283,2019-12-03 13:11:55,1190466,SA202,Quality of Ingredient Vended Since Last Reset,10200
+284,2019-12-03 13:11:55,1190466,SA203,Quantity of Ingredients Vended Since Initialisation,1155410
+285,2019-12-03 13:11:55,1190466,SA201,Ingredient Number,6
+286,2019-12-03 13:11:55,1190466,SA202,Quality of Ingredient Vended Since Last Reset,1680
+287,2019-12-03 13:11:55,1190466,SA203,Quantity of Ingredients Vended Since Initialisation,99818
+288,2019-12-03 13:11:55,1190466,SA201,Ingredient Number,7
+289,2019-12-03 13:11:55,1190466,SA202,Quality of Ingredient Vended Since Last Reset,2720
+290,2019-12-03 13:11:55,1190466,SA203,Quantity of Ingredients Vended Since Initialisation,330320
+291,2019-12-03 13:11:55,1190466,SA201,Ingredient Number,8
+292,2019-12-03 13:11:55,1190466,SA202,Quality of Ingredient Vended Since Last Reset,3910
+293,2019-12-03 13:11:55,1190466,SA203,Quantity of Ingredients Vended Since Initialisation,556256
+294,2019-12-03 13:11:55,1190466,SA201,Ingredient Number,9
+295,2019-12-03 13:11:55,1190466,SA202,Quality of Ingredient Vended Since Last Reset,0
+296,2019-12-03 13:11:55,1190466,SA203,Quantity of Ingredients Vended Since Initialisation,0
+297,2019-12-03 13:11:55,1190466,PA101,Product Number,2
+298,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+299,2019-12-03 13:11:55,1190466,PA103,Product Name,espresso
+300,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+301,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,613
+302,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+303,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,26
+304,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+305,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+306,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+307,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+308,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+309,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+310,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+311,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,227
+312,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,227
+313,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,2
+314,2019-12-03 13:11:55,1190466,PA101,Product Number,3
+315,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+316,2019-12-03 13:11:55,1190466,PA103,Product Name,coffee black
+317,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+318,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,1223
+319,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+320,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,36
+321,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+322,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+323,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+324,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+325,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+326,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+327,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+328,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,387
+329,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,387
+330,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,19
+331,2019-12-03 13:11:55,1190466,PA101,Product Number,4
+332,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+333,2019-12-03 13:11:55,1190466,PA103,Product Name,macchiato
+334,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+335,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,270
+336,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+337,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,7
+338,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+339,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+340,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+341,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+342,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+343,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+344,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+345,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,105
+346,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,105
+347,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,4
+348,2019-12-03 13:11:55,1190466,PA101,Product Number,5
+349,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+350,2019-12-03 13:11:55,1190466,PA103,Product Name,coffee white
+351,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+352,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,386
+353,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+354,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,7
+355,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+356,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+357,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+358,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+359,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+360,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+361,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+362,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,329
+363,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,329
+364,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,5
+365,2019-12-03 13:11:55,1190466,PA101,Product Number,6
+366,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+367,2019-12-03 13:11:55,1190466,PA103,Product Name,cappuccino
+368,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+369,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,321
+370,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+371,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,13
+372,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+373,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+374,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+375,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+376,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+377,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+378,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+379,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,299
+380,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,299
+381,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,7
+382,2019-12-03 13:11:55,1190466,PA101,Product Number,7
+383,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+384,2019-12-03 13:11:55,1190466,PA103,Product Name,milo
+385,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+386,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,604
+387,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+388,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,16
+389,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+390,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+391,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+392,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+393,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+394,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+395,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+396,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,309
+397,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,309
+398,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,7
+399,2019-12-03 13:11:55,1190466,PA101,Product Number,8
+400,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+401,2019-12-03 13:11:55,1190466,PA103,Product Name,malt milk
+402,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+403,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,0
+404,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+405,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,0
+406,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+407,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+408,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+409,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+410,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+411,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+412,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+413,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,0
+414,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,0
+415,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,0
+416,2019-12-03 13:11:55,1190466,PA101,Product Number,9
+417,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+418,2019-12-03 13:11:55,1190466,PA103,Product Name,teh tarik
+419,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+420,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,539
+421,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+422,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,11
+423,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+424,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+425,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+426,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+427,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+428,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+429,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+430,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,216
+431,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,216
+432,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,5
+433,2019-12-03 13:11:55,1190466,PA101,Product Number,10
+434,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+435,2019-12-03 13:11:55,1190466,PA103,Product Name,no sugar
+436,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+437,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,0
+438,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+439,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,0
+440,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+441,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+442,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+443,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+444,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+445,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+446,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+447,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,0
+448,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,0
+449,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,0
+450,2019-12-03 13:11:55,1190466,PA101,Product Number,12
+451,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+452,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+453,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,0
+454,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+455,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,0
+456,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+457,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+458,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+459,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+460,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+461,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+462,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+463,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,0
+464,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,0
+465,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,0
+466,2019-12-03 13:11:55,1190466,PA101,Product Number,13
+467,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+468,2019-12-03 13:11:55,1190466,PA103,Product Name,jasmine tea
+469,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+470,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,426
+471,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+472,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,8
+473,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+474,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+475,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+476,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+477,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+478,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+479,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+480,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,334
+481,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,334
+482,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,6
+483,2019-12-03 13:11:55,1190466,PA101,Product Number,14
+484,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+485,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+486,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,0
+487,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+488,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,0
+489,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+490,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+491,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+492,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+493,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+494,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+495,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+496,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,0
+497,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,0
+498,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,0
+499,2019-12-03 13:11:55,1190466,PA101,Product Number,15
+500,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+501,2019-12-03 13:11:55,1190466,PA103,Product Name,white tea
+502,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+503,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,0
+504,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+505,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,0
+506,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+507,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+508,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+509,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+510,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+511,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+512,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+513,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,0
+514,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,0
+515,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,0
+516,2019-12-03 13:11:55,1190466,PA101,Product Number,16
+517,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+518,2019-12-03 13:11:55,1190466,PA103,Product Name,tea chocolate
+519,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+520,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,0
+521,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+522,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,0
+523,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+524,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+525,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+526,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+527,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+528,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+529,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+530,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,0
+531,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,0
+532,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,0
+533,2019-12-03 13:11:55,1190466,PA101,Product Number,17
+534,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+535,2019-12-03 13:11:55,1190466,PA103,Product Name,chocolate
+536,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+537,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,306
+538,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+539,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,11
+540,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+541,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+542,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+543,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+544,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+545,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+546,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+547,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,169
+548,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,169
+549,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,11
+550,2019-12-03 13:11:55,1190466,PA101,Product Number,18
+551,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+552,2019-12-03 13:11:55,1190466,PA103,Product Name,chocolate strong
+553,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+554,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,523
+555,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+556,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,10
+557,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+558,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+559,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+560,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+561,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+562,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+563,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+564,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,194
+565,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,194
+566,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,6
+567,2019-12-03 13:11:55,1190466,PA101,Product Number,19
+568,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+569,2019-12-03 13:11:55,1190466,PA103,Product Name,chocolate milk
+570,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+571,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,153
+572,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+573,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,3
+574,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+575,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+576,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+577,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+578,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+579,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+580,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+581,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,194
+582,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,194
+583,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,8
+584,2019-12-03 13:11:55,1190466,PA101,Product Number,20
+585,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+586,2019-12-03 13:11:55,1190466,PA103,Product Name,milk non-dairy
+587,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+588,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,125
+589,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+590,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,4
+591,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+592,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+593,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+594,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+595,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+596,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+597,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+598,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,42
+599,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,42
+600,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,1
+601,2019-12-03 13:11:55,1190466,PA101,Product Number,22
+602,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+603,2019-12-03 13:11:55,1190466,PA103,Product Name,cafe mocha
+604,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+605,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,566
+606,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+607,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,13
+608,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+609,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+610,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+611,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+612,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+613,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,0
+614,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+615,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,159
+616,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,159
+617,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,5
+618,2019-12-03 13:11:55,1190466,PA101,Product Number,28
+619,2019-12-03 13:11:55,1190466,PA102,Product Price,1
+620,2019-12-03 13:11:55,1190466,PA103,Product Name,cafe latte
+621,2019-12-03 13:11:55,1190466,PA107,Selection Status,1
+622,2019-12-03 13:11:55,1190466,PA201,Product Vends Cumulative Item Counts,1079
+623,2019-12-03 13:11:55,1190466,PA202,Product Vends Cumulative Sales Value,0
+624,2019-12-03 13:11:55,1190466,PA203,Product Vends Interval Period Item Counts,27
+625,2019-12-03 13:11:55,1190466,PA204,Product Vends Interval Period Sales Value,0
+626,2019-12-03 13:11:55,1190466,PA205,Discounted Vends Cumulative Item Counts,0
+627,2019-12-03 13:11:55,1190466,PA206,Discounted Vends Cumulative Sales Value,0
+628,2019-12-03 13:11:55,1190466,PA207,Discounted Vends Interval Period Item Counts,0
+629,2019-12-03 13:11:55,1190466,PA208,Discounted Vends Interval Period Sales Value,0
+630,2019-12-03 13:11:55,1190466,PA301,Test Vends Cumulative Item Counts,1
+631,2019-12-03 13:11:55,1190466,PA303,Test Vends Interval Period Item Counts,0
+632,2019-12-03 13:11:55,1190466,PA401,Free Vends Cumulative Item Counts,363
+633,2019-12-03 13:11:55,1190466,PA402,Free Vends Cumulative Sales Value,363
+634,2019-12-03 13:11:55,1190466,PA403,Free Vends Interval Period Item Counts,11
+635,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+636,2019-12-03 13:11:55,1190466,LA102,Product Number,2
+637,2019-12-03 13:11:55,1190466,LA103,Price,1
+638,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,26
+639,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,613
+640,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+641,2019-12-03 13:11:55,1190466,LA102,Product Number,3
+642,2019-12-03 13:11:55,1190466,LA103,Price,1
+643,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,36
+644,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,1223
+645,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+646,2019-12-03 13:11:55,1190466,LA102,Product Number,4
+647,2019-12-03 13:11:55,1190466,LA103,Price,1
+648,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,7
+649,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,270
+650,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+651,2019-12-03 13:11:55,1190466,LA102,Product Number,5
+652,2019-12-03 13:11:55,1190466,LA103,Price,1
+653,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,7
+654,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,386
+655,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+656,2019-12-03 13:11:55,1190466,LA102,Product Number,6
+657,2019-12-03 13:11:55,1190466,LA103,Price,1
+658,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,13
+659,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,321
+660,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+661,2019-12-03 13:11:55,1190466,LA102,Product Number,7
+662,2019-12-03 13:11:55,1190466,LA103,Price,1
+663,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,16
+664,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,604
+665,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+666,2019-12-03 13:11:55,1190466,LA102,Product Number,8
+667,2019-12-03 13:11:55,1190466,LA103,Price,1
+668,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+669,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+670,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+671,2019-12-03 13:11:55,1190466,LA102,Product Number,9
+672,2019-12-03 13:11:55,1190466,LA103,Price,1
+673,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,11
+674,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,539
+675,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+676,2019-12-03 13:11:55,1190466,LA102,Product Number,10
+677,2019-12-03 13:11:55,1190466,LA103,Price,1
+678,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+679,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+680,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+681,2019-12-03 13:11:55,1190466,LA102,Product Number,12
+682,2019-12-03 13:11:55,1190466,LA103,Price,1
+683,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+684,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+685,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+686,2019-12-03 13:11:55,1190466,LA102,Product Number,13
+687,2019-12-03 13:11:55,1190466,LA103,Price,1
+688,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,8
+689,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,426
+690,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+691,2019-12-03 13:11:55,1190466,LA102,Product Number,14
+692,2019-12-03 13:11:55,1190466,LA103,Price,1
+693,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+694,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+695,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+696,2019-12-03 13:11:55,1190466,LA102,Product Number,15
+697,2019-12-03 13:11:55,1190466,LA103,Price,1
+698,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+699,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+700,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+701,2019-12-03 13:11:55,1190466,LA102,Product Number,16
+702,2019-12-03 13:11:55,1190466,LA103,Price,1
+703,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+704,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+705,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+706,2019-12-03 13:11:55,1190466,LA102,Product Number,17
+707,2019-12-03 13:11:55,1190466,LA103,Price,1
+708,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,11
+709,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,306
+710,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+711,2019-12-03 13:11:55,1190466,LA102,Product Number,18
+712,2019-12-03 13:11:55,1190466,LA103,Price,1
+713,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,10
+714,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,523
+715,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+716,2019-12-03 13:11:55,1190466,LA102,Product Number,19
+717,2019-12-03 13:11:55,1190466,LA103,Price,1
+718,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,3
+719,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,153
+720,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+721,2019-12-03 13:11:55,1190466,LA102,Product Number,20
+722,2019-12-03 13:11:55,1190466,LA103,Price,1
+723,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,4
+724,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,125
+725,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+726,2019-12-03 13:11:55,1190466,LA102,Product Number,22
+727,2019-12-03 13:11:55,1190466,LA103,Price,1
+728,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,13
+729,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,566
+730,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,0
+731,2019-12-03 13:11:55,1190466,LA102,Product Number,28
+732,2019-12-03 13:11:55,1190466,LA103,Price,1
+733,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,27
+734,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,1079
+735,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+736,2019-12-03 13:11:55,1190466,LA102,Product Number,2
+737,2019-12-03 13:11:55,1190466,LA103,Price,100
+738,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+739,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+740,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+741,2019-12-03 13:11:55,1190466,LA102,Product Number,3
+742,2019-12-03 13:11:55,1190466,LA103,Price,100
+743,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+744,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+745,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+746,2019-12-03 13:11:55,1190466,LA102,Product Number,4
+747,2019-12-03 13:11:55,1190466,LA103,Price,100
+748,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+749,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+750,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+751,2019-12-03 13:11:55,1190466,LA102,Product Number,5
+752,2019-12-03 13:11:55,1190466,LA103,Price,100
+753,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+754,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+755,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+756,2019-12-03 13:11:55,1190466,LA102,Product Number,6
+757,2019-12-03 13:11:55,1190466,LA103,Price,100
+758,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+759,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+760,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+761,2019-12-03 13:11:55,1190466,LA102,Product Number,7
+762,2019-12-03 13:11:55,1190466,LA103,Price,100
+763,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+764,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+765,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+766,2019-12-03 13:11:55,1190466,LA102,Product Number,8
+767,2019-12-03 13:11:55,1190466,LA103,Price,100
+768,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+769,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+770,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+771,2019-12-03 13:11:55,1190466,LA102,Product Number,9
+772,2019-12-03 13:11:55,1190466,LA103,Price,100
+773,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+774,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+775,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+776,2019-12-03 13:11:55,1190466,LA102,Product Number,10
+777,2019-12-03 13:11:55,1190466,LA103,Price,100
+778,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+779,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+780,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+781,2019-12-03 13:11:55,1190466,LA102,Product Number,12
+782,2019-12-03 13:11:55,1190466,LA103,Price,100
+783,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+784,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+785,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+786,2019-12-03 13:11:55,1190466,LA102,Product Number,13
+787,2019-12-03 13:11:55,1190466,LA103,Price,100
+788,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+789,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+790,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+791,2019-12-03 13:11:55,1190466,LA102,Product Number,14
+792,2019-12-03 13:11:55,1190466,LA103,Price,100
+793,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+794,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+795,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+796,2019-12-03 13:11:55,1190466,LA102,Product Number,15
+797,2019-12-03 13:11:55,1190466,LA103,Price,100
+798,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+799,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+800,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+801,2019-12-03 13:11:55,1190466,LA102,Product Number,16
+802,2019-12-03 13:11:55,1190466,LA103,Price,100
+803,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+804,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+805,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+806,2019-12-03 13:11:55,1190466,LA102,Product Number,17
+807,2019-12-03 13:11:55,1190466,LA103,Price,100
+808,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+809,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+810,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+811,2019-12-03 13:11:55,1190466,LA102,Product Number,18
+812,2019-12-03 13:11:55,1190466,LA103,Price,100
+813,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+814,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+815,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+816,2019-12-03 13:11:55,1190466,LA102,Product Number,19
+817,2019-12-03 13:11:55,1190466,LA103,Price,100
+818,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+819,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+820,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+821,2019-12-03 13:11:55,1190466,LA102,Product Number,20
+822,2019-12-03 13:11:55,1190466,LA103,Price,100
+823,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+824,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+825,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+826,2019-12-03 13:11:55,1190466,LA102,Product Number,22
+827,2019-12-03 13:11:55,1190466,LA103,Price,100
+828,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+829,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+830,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,1
+831,2019-12-03 13:11:55,1190466,LA102,Product Number,28
+832,2019-12-03 13:11:55,1190466,LA103,Price,100
+833,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+834,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+835,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+836,2019-12-03 13:11:55,1190466,LA102,Product Number,2
+837,2019-12-03 13:11:55,1190466,LA103,Price,100
+838,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+839,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+840,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+841,2019-12-03 13:11:55,1190466,LA102,Product Number,3
+842,2019-12-03 13:11:55,1190466,LA103,Price,100
+843,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+844,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+845,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+846,2019-12-03 13:11:55,1190466,LA102,Product Number,4
+847,2019-12-03 13:11:55,1190466,LA103,Price,100
+848,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+849,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+850,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+851,2019-12-03 13:11:55,1190466,LA102,Product Number,5
+852,2019-12-03 13:11:55,1190466,LA103,Price,100
+853,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+854,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+855,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+856,2019-12-03 13:11:55,1190466,LA102,Product Number,6
+857,2019-12-03 13:11:55,1190466,LA103,Price,100
+858,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+859,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+860,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+861,2019-12-03 13:11:55,1190466,LA102,Product Number,7
+862,2019-12-03 13:11:55,1190466,LA103,Price,100
+863,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+864,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+865,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+866,2019-12-03 13:11:55,1190466,LA102,Product Number,8
+867,2019-12-03 13:11:55,1190466,LA103,Price,100
+868,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+869,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+870,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+871,2019-12-03 13:11:55,1190466,LA102,Product Number,9
+872,2019-12-03 13:11:55,1190466,LA103,Price,100
+873,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+874,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+875,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+876,2019-12-03 13:11:55,1190466,LA102,Product Number,10
+877,2019-12-03 13:11:55,1190466,LA103,Price,100
+878,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+879,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+880,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+881,2019-12-03 13:11:55,1190466,LA102,Product Number,12
+882,2019-12-03 13:11:55,1190466,LA103,Price,100
+883,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+884,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+885,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+886,2019-12-03 13:11:55,1190466,LA102,Product Number,13
+887,2019-12-03 13:11:55,1190466,LA103,Price,100
+888,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+889,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+890,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+891,2019-12-03 13:11:55,1190466,LA102,Product Number,14
+892,2019-12-03 13:11:55,1190466,LA103,Price,100
+893,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+894,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+895,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+896,2019-12-03 13:11:55,1190466,LA102,Product Number,15
+897,2019-12-03 13:11:55,1190466,LA103,Price,100
+898,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+899,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+900,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+901,2019-12-03 13:11:55,1190466,LA102,Product Number,16
+902,2019-12-03 13:11:55,1190466,LA103,Price,100
+903,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+904,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+905,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+906,2019-12-03 13:11:55,1190466,LA102,Product Number,17
+907,2019-12-03 13:11:55,1190466,LA103,Price,100
+908,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+909,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+910,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+911,2019-12-03 13:11:55,1190466,LA102,Product Number,18
+912,2019-12-03 13:11:55,1190466,LA103,Price,100
+913,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+914,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+915,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+916,2019-12-03 13:11:55,1190466,LA102,Product Number,19
+917,2019-12-03 13:11:55,1190466,LA103,Price,100
+918,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+919,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+920,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+921,2019-12-03 13:11:55,1190466,LA102,Product Number,20
+922,2019-12-03 13:11:55,1190466,LA103,Price,100
+923,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+924,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+925,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+926,2019-12-03 13:11:55,1190466,LA102,Product Number,22
+927,2019-12-03 13:11:55,1190466,LA103,Price,100
+928,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+929,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+930,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,2
+931,2019-12-03 13:11:55,1190466,LA102,Product Number,28
+932,2019-12-03 13:11:55,1190466,LA103,Price,100
+933,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+934,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+935,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+936,2019-12-03 13:11:55,1190466,LA102,Product Number,2
+937,2019-12-03 13:11:55,1190466,LA103,Price,100
+938,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+939,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+940,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+941,2019-12-03 13:11:55,1190466,LA102,Product Number,3
+942,2019-12-03 13:11:55,1190466,LA103,Price,100
+943,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+944,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+945,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+946,2019-12-03 13:11:55,1190466,LA102,Product Number,4
+947,2019-12-03 13:11:55,1190466,LA103,Price,100
+948,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+949,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+950,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+951,2019-12-03 13:11:55,1190466,LA102,Product Number,5
+952,2019-12-03 13:11:55,1190466,LA103,Price,100
+953,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+954,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+955,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+956,2019-12-03 13:11:55,1190466,LA102,Product Number,6
+957,2019-12-03 13:11:55,1190466,LA103,Price,100
+958,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+959,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+960,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+961,2019-12-03 13:11:55,1190466,LA102,Product Number,7
+962,2019-12-03 13:11:55,1190466,LA103,Price,100
+963,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+964,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+965,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+966,2019-12-03 13:11:55,1190466,LA102,Product Number,8
+967,2019-12-03 13:11:55,1190466,LA103,Price,100
+968,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+969,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+970,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+971,2019-12-03 13:11:55,1190466,LA102,Product Number,9
+972,2019-12-03 13:11:55,1190466,LA103,Price,100
+973,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+974,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+975,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+976,2019-12-03 13:11:55,1190466,LA102,Product Number,10
+977,2019-12-03 13:11:55,1190466,LA103,Price,100
+978,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+979,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+980,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+981,2019-12-03 13:11:55,1190466,LA102,Product Number,12
+982,2019-12-03 13:11:55,1190466,LA103,Price,100
+983,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+984,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+985,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+986,2019-12-03 13:11:55,1190466,LA102,Product Number,13
+987,2019-12-03 13:11:55,1190466,LA103,Price,100
+988,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+989,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+990,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+991,2019-12-03 13:11:55,1190466,LA102,Product Number,14
+992,2019-12-03 13:11:55,1190466,LA103,Price,100
+993,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+994,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+995,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+996,2019-12-03 13:11:55,1190466,LA102,Product Number,15
+997,2019-12-03 13:11:55,1190466,LA103,Price,100
+998,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+999,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+1000,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+1001,2019-12-03 13:11:55,1190466,LA102,Product Number,16
+1002,2019-12-03 13:11:55,1190466,LA103,Price,100
+1003,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+1004,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+1005,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+1006,2019-12-03 13:11:55,1190466,LA102,Product Number,17
+1007,2019-12-03 13:11:55,1190466,LA103,Price,100
+1008,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+1009,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+1010,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+1011,2019-12-03 13:11:55,1190466,LA102,Product Number,18
+1012,2019-12-03 13:11:55,1190466,LA103,Price,100
+1013,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+1014,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+1015,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+1016,2019-12-03 13:11:55,1190466,LA102,Product Number,19
+1017,2019-12-03 13:11:55,1190466,LA103,Price,100
+1018,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+1019,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+1020,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+1021,2019-12-03 13:11:55,1190466,LA102,Product Number,20
+1022,2019-12-03 13:11:55,1190466,LA103,Price,100
+1023,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+1024,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+1025,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+1026,2019-12-03 13:11:55,1190466,LA102,Product Number,22
+1027,2019-12-03 13:11:55,1190466,LA103,Price,100
+1028,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+1029,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
+1030,2019-12-03 13:11:55,1190466,LA101,Pricelist Number,3
+1031,2019-12-03 13:11:55,1190466,LA102,Product Number,28
+1032,2019-12-03 13:11:55,1190466,LA103,Price,100
+1033,2019-12-03 13:11:55,1190466,LA104,Number of Vends Since Last Reset,0
+1034,2019-12-03 13:11:55,1190466,LA105,Number Of Vends Since Initialisation,0
