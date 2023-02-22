@@ -1,5 +1,6 @@
 # Python 3.9
 # Coding: utf-8
+# Version: 0
 # Import OS module to get all files in a directory
 import os
 from pathlib import Path
