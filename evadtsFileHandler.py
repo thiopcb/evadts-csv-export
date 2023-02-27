@@ -19,10 +19,7 @@ def getfileEvaDts(fileName):
     ID codes and values. Processed ID codes and values are appended output into a dataframe.
     """
     # Set current working directory:
-    if 'EVADTS_processing' in os.getcwd():
-        cwd = os.getcwd()
-    else:
-        cwd = os.getcwd() + '//EVADTS_processing'
+    cwd = os.getcwd()
     try:
         fileEvaDts = str(fileName)
         # Set the directory path where raw data file is stored, and store in a variable:
