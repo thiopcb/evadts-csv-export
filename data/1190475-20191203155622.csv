@@ -1,0 +1,921 @@
+,Retrieve_date,File_name,VM_serial,Code,Description,Values
+0,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,ID101,Machine Serial Number,NEC01190475
+1,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,ID102,Machine Model Number,CONCERTO
+2,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,ID106,Machine Asset Number,01190475
+3,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,ID401,Decimal Point Position,0
+4,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,ID501,System Date,191203
+5,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,ID502,System Time,155223
+6,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CB103,Control Board Software Revision,1.6
+7,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA101,All Paid Vends Cumulative Sales Value,0
+8,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA102,All Paid Vends Cumulative Item Counts,3699
+9,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA103,All Paid Vends Interval Period Sales Value,0
+10,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA104,All Paid Vends Interval Period Item Counts,49
+11,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA201,Test Vends Cumulative Sales Value,116
+12,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA202,Test Vends Cumulative Item Counts,36
+13,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA203,Test Vends Interval Period Sales Value,0
+14,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA204,Test Vends Interval Period Item Counts,0
+15,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA301,Free Vends Cumulative Sales Value,2886
+16,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA302,Free Vends Cumulative Item Counts,2830
+17,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA303,Free Vends Interval Period Sales Value,78
+18,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,VA304,Free Vends Interval Period Item Counts,78
+19,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA201,Value of Cash Sales Since Initialisation,0
+20,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA202,Number of Cash Vends Since Initialisation,0
+21,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA203,Value of Cash Sales Since Last Reset,0
+22,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA204,Number of Cash Vends Since Last Reset,0
+23,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA301,Value of Cash In Since Last Reset,0
+24,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA302,Value of Cash To Cash Box Since Last Reset,0
+25,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA303,Value of Cash to Tubes Since Last Reset,0
+26,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA304,Value of Bills In Since Last Reset,0
+27,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA305,Value of Cash In Since Initialisation,0
+28,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA306,Value of Cash To Cash Box Since Initialisation,0
+29,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA307,Value of Cash To Tubes Since Initilisation,0
+30,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA308,Value of Bills In Since Initialisation,0
+31,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA309,Value of Bills In Since Last Reset,0
+32,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA311,,0
+33,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA401,Value of Cash Dispensed Since Last Reset,0
+34,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA402,Value of Cash Manually Dispensed Since Last Reset,0
+35,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA403,Value of Cash Dispensed Since Initialisation,0
+36,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA404,Value of Cash Manually Dispensed Since Initiatlisation,0
+37,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA701,Value of Cash Discounts Since Last Reset,0
+38,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA702,Value of Cash Discounts Since Initialisation,0
+39,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA801,Value of Cash Overpay Since Last Reset,0
+40,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA802,Value of Cash Overpay Since Initialisation,0
+41,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA1001,Value of Cash Filled Since Last Reset,0
+42,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA1002,Value of Cash Filled Since Initialisation,0
+43,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,CA1501,Value of Tube Contents,0
+44,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA201,Value of Cashless 1 Sales Since Initiatlisation,0
+45,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA202,Number Of Cashless 1 Vends Since Initialisation,0
+46,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA203,Value of Cashless 1 Sales Since Last Reset,0
+47,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA204,Number of Cashless 1 Vends Since Last Reset,0
+48,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA401,Value Credited To Cashless 1 Since Initialisation,0
+49,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA402,Value Credited To Cashless 1 Since Last Reset,0
+50,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA501,Value of Cashless 1 Discounts Since Last Reset,0
+51,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA502,Number Of Discount Cashless 1 Vends Since Last Reset,0
+52,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA503,Value Of Cashless 1 Discounts Since Initialisation,0
+53,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA504,Number Of Discount Cashless 1 Vends Since Initialisation,0
+54,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA505,Value of Cashless 1 Surcharges Since Last Reset,0
+55,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA507,Value Of Cashless 1 Surcharges Since Initialisation,0
+56,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA701,Cashless 1 User Group Number,1
+57,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA702,Cashless 1 User Group Net Sales since last reset.,0
+58,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA705,Number of products sold to Cashless 1 user group since initialisation,0
+59,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA706,Number of products sold to Cashless 1 user group since last reset,0
+60,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA707,Cashless 1 User Group Net Sales since initialization ,0
+61,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA701,Cashless 1 User Group Number,2
+62,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA702,Cashless 1 User Group Net Sales since last reset.,0
+63,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA705,Number of products sold to Cashless 1 user group since initialisation,0
+64,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA706,Number of products sold to Cashless 1 user group since last reset,0
+65,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA707,Cashless 1 User Group Net Sales since initialization ,0
+66,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA701,Cashless 1 User Group Number,3
+67,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA702,Cashless 1 User Group Net Sales since last reset.,0
+68,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA705,Number of products sold to Cashless 1 user group since initialisation,0
+69,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA706,Number of products sold to Cashless 1 user group since last reset,0
+70,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA707,Cashless 1 User Group Net Sales since initialization ,0
+71,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA701,Cashless 1 User Group Number,4
+72,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA702,Cashless 1 User Group Net Sales since last reset.,0
+73,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA705,Number of products sold to Cashless 1 user group since initialisation,0
+74,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA706,Number of products sold to Cashless 1 user group since last reset,0
+75,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA707,Cashless 1 User Group Net Sales since initialization ,0
+76,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA701,Cashless 1 User Group Number,5
+77,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA702,Cashless 1 User Group Net Sales since last reset.,0
+78,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA705,Number of products sold to Cashless 1 user group since initialisation,0
+79,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA706,Number of products sold to Cashless 1 user group since last reset,0
+80,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DA707,Cashless 1 User Group Net Sales since initialization ,0
+81,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB201,Value of Cashless 2 Sales Since Initiatlisation,0
+82,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB202,Number Of Cashless 2 Vends Since Initialisation,0
+83,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB203,Value of Cashless 2 Sales Since Last Reset,0
+84,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB204,Number of Cashless 2 Vends Since Last Reset,0
+85,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB401,Value Credited To Cashless 2 Since Initialisation,0
+86,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB402,Value Credited To Cashless 2 Since Last Reset,0
+87,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB501,Value of Cashless 2 Discounts Since Last Reset,0
+88,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB502,Number Of Discount Cashless 2 Vends Since Last Reset,0
+89,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB503,Value Of Cashless 2 Discounts Since Initialisation,0
+90,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB504,Number Of Discount Cashless 2 Vends Since Initialisation,0
+91,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB505,Value of Cashless 2 Surcharges Since Last Reset,0
+92,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,DB507,Value Of Cashless 2 Surcharges Since Initialisation,0
+93,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA201,Value of Vend Token Vends Since Initialisation,0
+94,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA202,No. of Vend Token Vends Since Initialisation,0
+95,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA203,Value of Vend Token Sales Since Last Reset,0
+96,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA204,No. of Vend Token Sales Since Last Reset,0
+97,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA205,Value of Value Token Since Initialisation,0
+98,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA206,No. of  Value Token Since Initialisation,0
+99,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA207,Value of Value Token Sales Since Last Reset,0
+100,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA208,No. of Value Token Vends Since Last Reset,0
+101,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA301,Value of Value Tokens In Since Last Reset,0
+102,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA302,Value of Value Tokens In Since Initialisation,0
+103,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA501,Value of Token Overpay Since Last Reset,0
+104,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA502,Value of Token Overpay Since Initialisation,0
+105,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA701,Token Value,0
+106,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA702,Number of Tokens In Since Last Reset,0
+107,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA705,No. of Tokens In Since Initialisation,0
+108,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA701,Token Value,0
+109,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA702,Number of Tokens In Since Last Reset,0
+110,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA705,No. of Tokens In Since Initialisation,0
+111,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA701,Token Value,0
+112,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA702,Number of Tokens In Since Last Reset,0
+113,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA705,No. of Tokens In Since Initialisation,0
+114,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA1001,Token Identification,1
+115,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA1002,Token Value,0
+116,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA1001,Token Identification,2
+117,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA1002,Token Value,0
+118,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA1001,Token Identification,3
+119,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,TA1002,Token Value,0
+120,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA101,Event Identification,EFL_1
+121,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA102,Data of Event Occurance,190725
+122,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA103,Time of Event Occurance,114815
+123,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA201,Event Identification,EFL_1
+124,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA205,Event Activity,0
+125,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA101,Event Identification,EDI_8
+126,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA102,Data of Event Occurance,191014
+127,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA103,Time of Event Occurance,120236
+128,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA201,Event Identification,EDI_8
+129,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA205,Event Activity,0
+130,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA101,Event Identification,EDI_8
+131,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA102,Data of Event Occurance,191014
+132,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA103,Time of Event Occurance,140335
+133,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA201,Event Identification,EDI_8
+134,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA205,Event Activity,0
+135,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA101,Event Identification,EDI_8
+136,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA102,Data of Event Occurance,191014
+137,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA103,Time of Event Occurance,143230
+138,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA201,Event Identification,EDI_8
+139,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA205,Event Activity,0
+140,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA701,Number of Power Outages Since Last Reset,5
+141,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA702,Number of Power Outages Since Initialisation,146
+142,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA301,Number Of Reads with RESET Since Initialisation,11
+143,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA302,Date Of This Read Out,191203
+144,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA303,Time Of This Read Out,155622
+145,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA304,This Terminal / interrogator Identification,0000
+146,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA305,Date Of Last Read Out,191128
+147,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA306,Time Of Last Read Out,155859
+148,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,EA307,Last Terminal / interrogator Identification,0000
+149,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PP101,Preselection Number,0
+150,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PP102,Preselection Price,0
+151,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PP103,Preselection Identification,SUGAR VARIATION
+152,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PP104,Preselection Incremental Price,0
+153,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PP105,Number of Times Preselection Used Since Initialisation,2429
+154,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PP107,Number of Times Preselection Used Since Reset,44
+155,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA201,Ingredient Number,1
+156,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA202,Quality of Ingredient Vended Since Last Reset,1849
+157,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA203,Quantity of Ingredients Vended Since Initialisation,110293
+158,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA201,Ingredient Number,2
+159,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA202,Quality of Ingredient Vended Since Last Reset,0
+160,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA203,Quantity of Ingredients Vended Since Initialisation,0
+161,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA201,Ingredient Number,3
+162,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA202,Quality of Ingredient Vended Since Last Reset,0
+163,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA203,Quantity of Ingredients Vended Since Initialisation,0
+164,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA201,Ingredient Number,4
+165,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA202,Quality of Ingredient Vended Since Last Reset,2930
+166,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA203,Quantity of Ingredients Vended Since Initialisation,170080
+167,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA201,Ingredient Number,5
+168,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA202,Quality of Ingredient Vended Since Last Reset,4670
+169,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA203,Quantity of Ingredients Vended Since Initialisation,202125
+170,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA201,Ingredient Number,6
+171,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA202,Quality of Ingredient Vended Since Last Reset,2400
+172,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA203,Quantity of Ingredients Vended Since Initialisation,68695
+173,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA201,Ingredient Number,7
+174,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA202,Quality of Ingredient Vended Since Last Reset,850
+175,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA203,Quantity of Ingredients Vended Since Initialisation,98575
+176,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA201,Ingredient Number,8
+177,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA202,Quality of Ingredient Vended Since Last Reset,2210
+178,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA203,Quantity of Ingredients Vended Since Initialisation,119145
+179,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA201,Ingredient Number,9
+180,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA202,Quality of Ingredient Vended Since Last Reset,0
+181,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,SA203,Quantity of Ingredients Vended Since Initialisation,0
+182,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,2
+183,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+184,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,espresso
+185,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+186,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,368
+187,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+188,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,3
+189,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+190,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+191,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+192,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+193,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+194,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+195,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+196,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,167
+197,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,167
+198,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,3
+199,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,3
+200,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+201,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,coffee black
+202,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+203,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,549
+204,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+205,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,13
+206,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+207,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+208,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+209,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+210,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+211,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+212,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+213,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,380
+214,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,380
+215,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,7
+216,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,4
+217,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+218,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,macchiato
+219,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+220,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,134
+221,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+222,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,0
+223,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+224,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+225,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+226,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+227,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+228,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+229,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+230,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,80
+231,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,80
+232,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,2
+233,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,5
+234,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+235,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,coffee white
+236,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+237,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,151
+238,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+239,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,4
+240,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+241,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+242,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+243,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+244,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+245,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+246,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+247,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,129
+248,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,129
+249,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,2
+250,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,6
+251,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+252,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,cappuccino
+253,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+254,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,531
+255,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+256,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,3
+257,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+258,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+259,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+260,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+261,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+262,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+263,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+264,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,228
+265,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,228
+266,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,12
+267,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,7
+268,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+269,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,milo
+270,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+271,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,336
+272,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+273,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,5
+274,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+275,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+276,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+277,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+278,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+279,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+280,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+281,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,349
+282,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,349
+283,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,8
+284,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,8
+285,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+286,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,malt milk
+287,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+288,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,0
+289,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+290,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,0
+291,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+292,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+293,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+294,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+295,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+296,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+297,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+298,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,0
+299,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,0
+300,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,0
+301,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,9
+302,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+303,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,teh tarik
+304,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+305,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,350
+306,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+307,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,0
+308,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+309,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+310,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+311,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+312,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+313,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+314,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+315,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,213
+316,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,213
+317,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,5
+318,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,10
+319,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+320,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,no sugar
+321,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+322,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,0
+323,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+324,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,0
+325,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+326,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+327,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+328,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+329,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+330,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+331,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+332,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,0
+333,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,0
+334,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,0
+335,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,12
+336,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+337,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+338,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,0
+339,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+340,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,0
+341,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+342,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+343,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+344,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+345,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+346,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+347,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+348,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,0
+349,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,0
+350,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,0
+351,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,13
+352,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+353,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,jasmine tea
+354,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+355,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,207
+356,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+357,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,8
+358,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+359,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+360,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+361,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+362,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+363,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+364,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+365,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,338
+366,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,338
+367,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,12
+368,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,14
+369,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+370,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+371,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,0
+372,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+373,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,0
+374,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+375,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+376,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+377,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+378,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+379,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+380,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+381,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,0
+382,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,0
+383,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,0
+384,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,15
+385,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+386,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,white tea
+387,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+388,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,0
+389,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+390,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,0
+391,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+392,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+393,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+394,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+395,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+396,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+397,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+398,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,0
+399,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,0
+400,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,0
+401,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,16
+402,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+403,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,tea chocolate
+404,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+405,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,0
+406,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+407,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,0
+408,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+409,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+410,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+411,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+412,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+413,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+414,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+415,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,0
+416,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,0
+417,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,0
+418,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,17
+419,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+420,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,chocolate
+421,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+422,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,92
+423,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+424,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,0
+425,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+426,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+427,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+428,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+429,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+430,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+431,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+432,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,133
+433,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,133
+434,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,5
+435,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,18
+436,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+437,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,chocolate strong
+438,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+439,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,247
+440,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+441,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,3
+442,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+443,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+444,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+445,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+446,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+447,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+448,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+449,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,186
+450,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,186
+451,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,4
+452,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,19
+453,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+454,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,chocolate milk
+455,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+456,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,76
+457,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+458,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,1
+459,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+460,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+461,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+462,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+463,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+464,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+465,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+466,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,137
+467,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,137
+468,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,8
+469,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,20
+470,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+471,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,milk non-dairy
+472,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+473,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,62
+474,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+475,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,0
+476,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+477,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+478,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+479,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+480,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+481,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+482,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+483,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,66
+484,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,66
+485,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,0
+486,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,22
+487,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+488,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,cafe mocha
+489,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+490,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,207
+491,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+492,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,6
+493,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+494,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+495,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+496,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+497,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+498,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+499,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+500,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,125
+501,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,125
+502,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,3
+503,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA101,Product Number,28
+504,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA102,Product Price,1
+505,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA103,Product Name,cafe latte
+506,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA107,Selection Status,1
+507,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA201,Product Vends Cumulative Item Counts,388
+508,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA202,Product Vends Cumulative Sales Value,0
+509,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA203,Product Vends Interval Period Item Counts,3
+510,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA204,Product Vends Interval Period Sales Value,0
+511,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA205,Discounted Vends Cumulative Item Counts,0
+512,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA206,Discounted Vends Cumulative Sales Value,0
+513,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA207,Discounted Vends Interval Period Item Counts,0
+514,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA208,Discounted Vends Interval Period Sales Value,0
+515,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA301,Test Vends Cumulative Item Counts,0
+516,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA303,Test Vends Interval Period Item Counts,0
+517,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA401,Free Vends Cumulative Item Counts,285
+518,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA402,Free Vends Cumulative Sales Value,285
+519,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,PA403,Free Vends Interval Period Item Counts,7
+520,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+521,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,2
+522,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+523,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,3
+524,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,368
+525,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+526,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,3
+527,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+528,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,13
+529,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,549
+530,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+531,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,4
+532,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+533,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+534,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,134
+535,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+536,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,5
+537,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+538,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,4
+539,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,151
+540,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+541,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,6
+542,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+543,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,3
+544,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,531
+545,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+546,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,7
+547,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+548,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,5
+549,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,336
+550,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+551,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,8
+552,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+553,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+554,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+555,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+556,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,9
+557,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+558,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+559,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,350
+560,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+561,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,10
+562,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+563,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+564,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+565,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+566,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,12
+567,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+568,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+569,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+570,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+571,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,13
+572,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+573,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,8
+574,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,207
+575,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+576,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,14
+577,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+578,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+579,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+580,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+581,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,15
+582,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+583,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+584,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+585,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+586,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,16
+587,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+588,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+589,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+590,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+591,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,17
+592,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+593,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+594,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,92
+595,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+596,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,18
+597,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+598,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,3
+599,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,247
+600,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+601,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,19
+602,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+603,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,1
+604,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,76
+605,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+606,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,20
+607,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+608,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+609,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,62
+610,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+611,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,22
+612,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+613,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,6
+614,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,207
+615,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,0
+616,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,28
+617,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,1
+618,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,3
+619,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,388
+620,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+621,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,2
+622,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+623,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+624,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+625,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+626,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,3
+627,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+628,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+629,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+630,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+631,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,4
+632,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+633,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+634,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+635,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+636,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,5
+637,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+638,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+639,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+640,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+641,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,6
+642,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+643,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+644,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+645,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+646,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,7
+647,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+648,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+649,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+650,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+651,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,8
+652,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+653,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+654,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+655,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+656,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,9
+657,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+658,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+659,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+660,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+661,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,10
+662,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+663,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+664,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+665,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+666,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,12
+667,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+668,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+669,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+670,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+671,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,13
+672,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+673,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+674,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+675,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+676,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,14
+677,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+678,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+679,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+680,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+681,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,15
+682,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+683,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+684,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+685,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+686,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,16
+687,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+688,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+689,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+690,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+691,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,17
+692,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+693,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+694,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+695,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+696,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,18
+697,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+698,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+699,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+700,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+701,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,19
+702,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+703,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+704,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+705,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+706,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,20
+707,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+708,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+709,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+710,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+711,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,22
+712,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+713,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+714,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+715,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,1
+716,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,28
+717,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+718,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+719,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+720,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+721,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,2
+722,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+723,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+724,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+725,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+726,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,3
+727,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+728,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+729,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+730,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+731,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,4
+732,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+733,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+734,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+735,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+736,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,5
+737,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+738,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+739,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+740,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+741,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,6
+742,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+743,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+744,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+745,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+746,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,7
+747,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+748,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+749,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+750,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+751,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,8
+752,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+753,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+754,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+755,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+756,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,9
+757,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+758,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+759,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+760,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+761,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,10
+762,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+763,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+764,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+765,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+766,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,12
+767,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+768,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+769,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+770,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+771,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,13
+772,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+773,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+774,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+775,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+776,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,14
+777,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+778,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+779,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+780,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+781,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,15
+782,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+783,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+784,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+785,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+786,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,16
+787,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+788,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+789,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+790,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+791,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,17
+792,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+793,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+794,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+795,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+796,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,18
+797,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+798,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+799,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+800,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+801,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,19
+802,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+803,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+804,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+805,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+806,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,20
+807,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+808,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+809,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+810,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+811,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,22
+812,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+813,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+814,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+815,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,2
+816,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,28
+817,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+818,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+819,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+820,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+821,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,2
+822,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+823,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+824,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+825,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+826,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,3
+827,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+828,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+829,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+830,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+831,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,4
+832,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+833,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+834,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+835,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+836,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,5
+837,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+838,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+839,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+840,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+841,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,6
+842,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+843,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+844,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+845,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+846,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,7
+847,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+848,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+849,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+850,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+851,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,8
+852,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+853,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+854,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+855,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+856,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,9
+857,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+858,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+859,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+860,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+861,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,10
+862,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+863,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+864,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+865,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+866,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,12
+867,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+868,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+869,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+870,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+871,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,13
+872,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+873,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+874,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+875,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+876,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,14
+877,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+878,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+879,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+880,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+881,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,15
+882,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+883,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+884,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+885,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+886,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,16
+887,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+888,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+889,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+890,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+891,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,17
+892,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+893,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+894,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+895,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+896,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,18
+897,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+898,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+899,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+900,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+901,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,19
+902,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+903,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+904,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+905,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+906,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,20
+907,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+908,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+909,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+910,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+911,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,22
+912,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+913,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+914,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
+915,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA101,Pricelist Number,3
+916,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA102,Product Number,28
+917,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA103,Price,100
+918,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA104,Number of Vends Since Last Reset,0
+919,2019-12-03 15:56:22,C:\Users\thiopcb\Documents\VSCodes\EVADTS_processing\sampledata\_N_W_BlueRed_Pc5461c_20191203155644.daa,1190475,LA105,Number Of Vends Since Initialisation,0
